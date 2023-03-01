@@ -5,3 +5,4 @@
 * Wikipedia
     * [Introduction to genetics](https://en.wikipedia.org/wiki/Introduction_to_genetics)
     * [Genetics](https://en.wikipedia.org/wiki/Genetics)
+* [Learn Genetics | Utah University](https://learn.genetics.utah.edu/)
